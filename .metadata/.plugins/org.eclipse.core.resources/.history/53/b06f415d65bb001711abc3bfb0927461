@@ -1,0 +1,5 @@
+package com.javasampleapproach.angular4.controller;
+
+public class WebRestController {
+
+}
